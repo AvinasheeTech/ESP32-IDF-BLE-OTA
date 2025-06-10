@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-	ESP32 Bluetooth OTA firmware update using ESP-IDF
+	ESP32 Bluetooth OTA firmware update using ESP-IDF platform
 </h3>
 
 
