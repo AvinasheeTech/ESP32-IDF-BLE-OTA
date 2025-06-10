@@ -1,6 +1,6 @@
 /* @file  BLE_Peripheral.h
    @brief header file for BLE peripheral with GATT server  
-   @author bheesma-10
+   @author Avinashee Tech
 */
 #ifndef _main_h_
 #define _main_h_
@@ -9,6 +9,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+//OTA state enum
 enum{
     OTA_NOP,
     OTA_REQUEST,
