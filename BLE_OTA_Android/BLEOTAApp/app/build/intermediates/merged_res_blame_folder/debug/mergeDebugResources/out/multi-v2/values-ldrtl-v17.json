@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.avinasheetech.bleota.app-mergeDebugResources-29:/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\chait\\.gradle\\caches\\9.0-milestone-1\\transforms\\d04bac929587a6df4ec1277c55e1827e\\transformed\\material-1.11.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,191",
+                        "endColumns": "135,140",
+                        "endOffsets": "186,327"
+                    }
+                }
+            ]
+        }
+    ]
+}

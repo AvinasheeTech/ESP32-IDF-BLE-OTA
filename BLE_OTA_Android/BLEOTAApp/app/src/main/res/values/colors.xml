@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0D1117</color>
+    <color name="card_bg">#161B22</color>
+    <color name="accent_green">#39D353</color>
+    <color name="text_primary">#E6EDF3</color>
+    <color name="text_secondary">#7D8590</color>
+    <color name="divider">#21262D</color>
+    <color name="log_text">#58A6FF</color>
+    <color name="btn_outline_bg">#1C2128</color>
+    <color name="colorPrimary">#39D353</color>
+    <color name="colorPrimaryVariant">#2EA043</color>
+    <color name="colorOnPrimary">#0D1117</color>
+</resources>

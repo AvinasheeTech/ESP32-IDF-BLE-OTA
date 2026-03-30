@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color accent_green
+color bg_dark
+color btn_outline_bg
+color card_bg
+color colorOnPrimary
+color colorPrimary
+color colorPrimaryVariant
+color divider
+color log_text
+color text_primary
+color text_secondary
+drawable card_background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnScan
+id btnSelectFile
+id btnStartOta
+id progressBar
+id scrollLog
+id topSection
+id tvDeviceStatus
+id tvFileName
+id tvLog
+id tvLogLabel
+id tvPacketInfo
+id tvProgress
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.BLEOTAApp

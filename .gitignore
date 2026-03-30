@@ -1,2 +1,6 @@
 .vscode
 BLE_OTA_ESP32/build/
+BLE_OTA_Android/BLEOTAApp/.gradle/
+BLE_OTA_Android/BLEOTAApp/.idea/
+BLE_OTA_Android/BLEOTAApp/build/
+BLE_OTA_Android/BLEOTAApp/local.properties
